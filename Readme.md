@@ -26,5 +26,5 @@ To use `head_rust`, you can compile the program and run it from the command line
 ```bash
 # Example usage with options
 cd target/release
-./head-rust file1.txt file2.txt -c 100 -n 5
+./head_rust file1.txt file2.txt -c 100
 ```
